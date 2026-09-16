@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoyri&theme=dracula&hide_border=true" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoyri&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qoyri&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
